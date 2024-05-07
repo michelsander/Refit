@@ -3,7 +3,7 @@
 # Controle do ciclo de combustíveis
    ### Rotina para medições de tanques de combustíveis da refinaria REFIT
 
-![image](https://github.com/michelsander/Fleetcor/assets/104599995/e0d71c17-90e5-4194-a499-fe64bc131d57)
+![image](https://github.com/michelsander/Refit/assets/104599995/11ecf4f2-7206-46c7-a64d-847e60c6b827)
 
 # 🥷 Autores / Colaboradores
 
@@ -11,7 +11,6 @@
    > 📆Data do Projeto: Julho de 2019<BR>
    > Gerente de Projeto: Roger Cangianeli<br>
    > Coordenador da FSW: Flávio San Miguel<br>
-   > Desenvolvedor: Michel Sander<br>
    > 🏦Projeto entregue á Empresa REFIT<br>
    
 # Tecnologias utilizadas
